@@ -10,6 +10,7 @@ itables = "*"
 imblearn = "*"
 scikit-learn = "*"
 lightgbm = "*"
+pyarrow = "*"
 
 [dev-packages]
 jupyter = "*"
